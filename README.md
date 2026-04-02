@@ -31,15 +31,30 @@ I thrive at the intersection of **data science, applied ML, and backend engineer
 
 ---
 
-## 🏆 Coding Stats
+## 🏆 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDMINUL&show_icons=true&theme=radical&hide_border=true)
-&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDMINUL&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDMINUL&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
+</p>
 
-&nbsp;
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDMINUL&layout=compact&theme=radical&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less)](https://github.com/anuraghazra/github-readme-stats)
+## 🧰 My ML Toolbox
+
+<p align="center">
+
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **ML / DL** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **NLP** | ![NLTK](https://img.shields.io/badge/TF--IDF%20%7C%20Tokenization%20%7C%20Cosine%20Similarity-6C63FF?style=flat-square) |
+| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
+| **Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+
+</p>
 
 ---
 
