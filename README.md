@@ -8,7 +8,7 @@
 
 ---
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SIDMINUL&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDMINUL&theme=github-compact&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -94,4 +94,4 @@ I once fed **211,000 crypto trades** into a clustering model just to prove that 
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/SIDMINUL/SIDMINUL/output/github-contribution-grid-snake.svg)
+[![3D Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=SIDMINUL&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/SIDMINUL)
