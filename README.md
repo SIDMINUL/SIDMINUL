@@ -68,4 +68,4 @@ I once fed **211,000 crypto trades** into a clustering model just to prove that 
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/SIDMINUL/SIDMINUL/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SIDMINUL/SIDMINUL/.github/workflows/snake.yml)
