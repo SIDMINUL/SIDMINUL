@@ -41,6 +41,32 @@ I thrive at the intersection of **data science, applied ML, and backend engineer
 
 ---
 
+## 📊 Data I've Touched
+
+> *Real numbers from real projects — not LeetCode, actual pipelines.*
+
+![211K+ Records](https://img.shields.io/badge/Crypto_Trade_Records_Analyzed-211%2C000%2B-blueviolet?style=for-the-badge)
+![10K+ Items](https://img.shields.io/badge/Movie_%26_Music_Items_Vectorized-10%2C000%2B-blue?style=for-the-badge)
+![Sub-2s Latency](https://img.shields.io/badge/Voice_Assistant_Latency-%3C2s-brightgreen?style=for-the-badge)
+![ANOVA F=10.13](https://img.shields.io/badge/ANOVA_F--Score-10.13_(p%3C0.001)-orange?style=for-the-badge)
+![3.2x PnL](https://img.shields.io/badge/Fear_vs_Greed_PnL_Multiplier-3.2%C3%97-red?style=for-the-badge)
+![30% Faster](https://img.shields.io/badge/API_Latency_Reduction_via_Caching-30%25-yellow?style=for-the-badge)
+
+---
+
+## 🔁 My ML Build Philosophy
+
+```
+Raw Data  ──►  Clean & EDA  ──►  Feature Engineering  ──►  Model Training
+                                                                   │
+                                                                   ▼
+              User  ◄──  Streamlit / Flask / FastAPI  ◄──  Evaluate & Tune
+```
+
+> I don't stop at a Jupyter notebook. Every model I build ships.
+
+---
+
 ## 🛠️ Featured Projects
 
 | Project | Description | Tech Stack | Repo |
@@ -54,7 +80,7 @@ I thrive at the intersection of **data science, applied ML, and backend engineer
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-momin-siddiqui-903147225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-momin-siddiqui903147225)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momimabdul605@gmail.com)
 &nbsp;
@@ -68,4 +94,4 @@ I once fed **211,000 crypto trades** into a clustering model just to prove that 
 
 ---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/SIDMINUL/SIDMINUL/.github/workflows/snake.yml)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SIDMINUL/SIDMINUL/output/github-contribution-grid-snake.svg)
