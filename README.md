@@ -8,7 +8,9 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDMINUL&theme=github-compact&hide_border=true&area=true&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="480" alt="Neural Network"/>
+</p>
 
 ---
 
@@ -94,4 +96,6 @@ I once fed **211,000 crypto trades** into a clustering model just to prove that 
 
 ---
 
-[![3D Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=SIDMINUL&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/SIDMINUL)
+<p align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="480" alt="AI Brain"/>
+</p>
