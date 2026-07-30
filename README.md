@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdul Momin Siddiqui! 👋
 
-### Pre-Final Year @ IIIT Ranchi | ML & NLP Engineer | Building Intelligent Systems
+### Final Year @ IIIT Ranchi | ML & NLP Engineer | Building Intelligent Systems
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=ML+%26+NLP+Systems+from+Scratch;Recommenders+%7C+Voice+AI+%7C+Adaptive+Testing;Data+Pipelines+%E2%86%92+Model+%E2%86%92+Deployment+%F0%9F%9A%80)](https://git.io/typing-svg)
 
