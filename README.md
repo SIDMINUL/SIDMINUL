@@ -36,7 +36,7 @@ I thrive at the intersection of **data science, applied ML, and backend engineer
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ICBaMMSr&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=SIDMINUL&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
 </p>
 
