@@ -2,9 +2,9 @@
 
 # Hi, I'm Abdul Momin Siddiqui! 👋
 
-### Final Year @ IIIT Ranchi | ML & NLP Engineer | Building Intelligent Systems
+### Final Year @ IIIT Ranchi | Data & ML Engineer | Building Deployed AI Systems
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=ML+%26+NLP+Systems+from+Scratch;Recommenders+%7C+Voice+AI+%7C+Adaptive+Testing;Data+Pipelines+%E2%86%92+Model+%E2%86%92+Deployment+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+%26+ML+Systems;Analytics+%7C+Voice+AI+%7C+Recommenders;Data+Pipelines+%E2%86%92+Models+%E2%86%92+Deployment+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
@@ -14,21 +14,21 @@
 
 ---
 
-[![Tech Stack Icons](https://skillicons.dev/icons?i=python,tensorflow,sklearn,keras,flask,fastapi,streamlit,mongodb,mysql,docker,git,github,vscode,azure,aws,jupyter&perline=8)](https://skillicons.dev)
+[![Tech Stack Icons](https://skillicons.dev/icons?i=python,sklearn,flask,fastapi,streamlit,mongodb,mysql,docker,git,github,vscode,azure,aws,jupyter&perline=8)](https://skillicons.dev)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **ML & NLP Engineer** who loves building end-to-end intelligent systems — from raw data to deployed product.
-I thrive at the intersection of **data science, applied ML, and backend engineering**.
+I'm a **Data & ML Engineer** who enjoys building end-to-end systems — from raw data and feature engineering to analytics, models, APIs, and deployed applications.
+I work at the intersection of **data analysis, applied machine learning, NLP/speech, and backend engineering**.
 
-- 🔭 Currently building **adaptive AI systems** and **emotion-aware assistants**
-- 🧠 Deep interest in **NLP**, **speech processing**, and **unsupervised learning**
-- 🎙️ Research intern experience building **voice-in to voice-out AI pipelines** (ASR → LLM → TTS)
-- 🛠️ Full pipeline comfort: data cleaning → feature engineering → model training → Streamlit/Flask/FastAPI deployment
-- 📊 Love turning messy real-world data into **actionable insight** (211K+ trade records, anyone?)
-- 🤝 **Open to collaboration** on ML research, intelligent apps, and data science projects!
+- 🔭 Building **data-driven and adaptive AI systems**
+- 🧠 Interested in **machine learning, NLP, speech processing, recommendation systems, and analytics**
+- 🎙️ Research intern experience building **speech sentiment and emotion pipelines**
+- 🛠️ Comfortable with data cleaning → feature engineering → model evaluation → Streamlit/Flask/FastAPI deployment
+- 📊 Enjoy turning real-world datasets into **actionable insights and interactive dashboards**
+- 🤝 Open to collaboration on **ML, data science, analytics, and intelligent applications**
 
 ---
 
@@ -42,59 +42,55 @@ I thrive at the intersection of **data science, applied ML, and backend engineer
 
 ---
 
-## 🧰 My ML Toolbox
+## 🧰 My Toolbox
 
 <p align="center">
 
 | Category | Tools |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **ML / DL** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![ANNs](https://img.shields.io/badge/ANNs%20%7C%20Predictive%20Modeling%20%7C%20Hyperparameter%20Tuning-D00000?style=flat-square) |
-| **NLP / Speech** | ![NLP](https://img.shields.io/badge/TF--IDF%20%7C%20Tokenization%20%7C%20Cosine%20Similarity-6C63FF?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper%20ASR-412991?style=flat-square&logo=openai&logoColor=white) ![wav2vec2](https://img.shields.io/badge/wav2vec2--superb--er-412991?style=flat-square) ![Qwen](https://img.shields.io/badge/Qwen%20LLM-6C63FF?style=flat-square) ![Kokoro TTS](https://img.shields.io/badge/Kokoro%20TTS-6C63FF?style=flat-square) ![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **ML / DL** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-6C63FF?style=flat-square) |
+| **NLP / Speech** | ![NLP](https://img.shields.io/badge/TF--IDF%20%7C%20Tokenization%20%7C%20Cosine%20Similarity-6C63FF?style=flat-square) ![Speech](https://img.shields.io/badge/Speech%20Processing-412991?style=flat-square) ![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square&logo=groq&logoColor=white) |
 | **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
 | **Visualization / BI** | ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Cloud** | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 | **Deployment / Tools** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 </p>
 
 ---
 
-## 📊 Data I've Touched
+## 📊 Data I've Worked With
 
-> *Real numbers from real projects — not LeetCode, actual pipelines.*
+> *Real datasets and deployed applications from recent projects.*
 
 ![211K+ Records](https://img.shields.io/badge/Crypto_Trade_Records_Analyzed-211%2C000%2B-blueviolet?style=for-the-badge)
+![5K Interactions](https://img.shields.io/badge/Customer_Service_Interactions-5%2C000-blue?style=for-the-badge)
 ![10K+ Items](https://img.shields.io/badge/Movie_%26_Music_Items_Vectorized-10%2C000%2B-blue?style=for-the-badge)
-![Sub-2s Latency](https://img.shields.io/badge/Voice_Assistant_Latency-%3C2s-brightgreen?style=for-the-badge)
-![ANOVA F=10.13](https://img.shields.io/badge/ANOVA_F--Score-10.13_(p%3C0.001)-orange?style=for-the-badge)
-![3.2x PnL](https://img.shields.io/badge/Fear_vs_Greed_PnL_Multiplier-3.2%C3%97-red?style=for-the-badge)
-![30% Faster](https://img.shields.io/badge/API_Latency_Reduction_via_Caching-30%25-yellow?style=for-the-badge)
-![4 Endpoints](https://img.shields.io/badge/Adaptive%20Testing%20API%20Endpoints-4-9cf?style=for-the-badge)
+![25 Questions](https://img.shields.io/badge/Adaptive_Diagnostic_Questions-25-9cf?style=for-the-badge)
 
 ---
 
-## 🔁 My ML Build Philosophy
+## 🔁 My Build Philosophy
 
-\`\`\`
-Raw Data  ──►  Clean & EDA  ──►  Feature Engineering  ──►  Model Training
-                                                                   │
-                                                                   ▼
-              User  ◄──  Streamlit / Flask / FastAPI  ◄──  Evaluate & Tune
-\`\`\`
+```text
+Raw Data → Clean & EDA → Feature Engineering → Model / Analytics
+                                                   │
+                                                   ▼
+              User ← Streamlit / Flask / FastAPI ← Evaluate & Deploy
+```
 
-> I don't stop at a Jupyter notebook. Every model I build ships.
+> I aim to take projects beyond notebooks by turning analysis and models into **usable, testable, and deployable applications**.
 
 ---
 
 ## 💼 Experience
 
 **Research Intern – AI Sentiment & Emotion Pipeline** @ SoftNerve · *Jan 2026 – Mar 2026 (Remote)*
-- Designed an end-to-end **emotion-aware RL pipeline** classifying speech sentiment (frustrated / happy / sad) using `wav2vec2-base-superb-er` + Librosa prosody features (pitch, energy, tempo, pause ratio)
-- Formulated emotion response selection as an RL problem; trained a **multimodal logistic regression policy** over a discrete action space, with a reward model penalizing unsafe/verbose outputs
-- Integrated **Whisper ASR → Qwen LLM → Kokoro TTS** for a complete voice-in to voice-out pipeline
-- Logged voice inputs, prosody features, and generated text for **offline policy improvement** — no large labelled datasets or LoRA fine-tuning required
+- Developed an end-to-end pipeline for evaluating speech sentiment and emotion using audio and prosodic features.
+- Analyzed pitch, energy, tempo, and pause-ratio data to identify patterns in user interactions.
+- Designed evaluation and reward mechanisms to improve response quality and consistency.
+- Integrated speech recognition, NLP, and text-to-speech components while maintaining structured data flow.
 
 ---
 
@@ -102,10 +98,20 @@ Raw Data  ──►  Clean & EDA  ──►  Feature Engineering  ──►  Mod
 
 | Project | Description | Tech Stack | Repo |
 |---|---|---|---|
-| **Movies & Music Recommender** 🎬🎵 | Content-based recommender on 10K+ items using TF-IDF & cosine similarity; 30% faster API via caching | Python · Streamlit · OMDB/Deezer API | [View Repo →](https://github.com/SIDMINUL/Movie-Music-Recommender) |
-| **Emotion Voice Assistant (EVA)** 🎙️ | Speech-emotion classifier + context-aware response engine; full-stack Flask app with <2s latency | Python · Flask · ML · HTML/CSS/JS | [View Repo →](https://github.com/SIDMINUL/Emotion-Voice-Assistant) |
-| **GreedGauge** 📈 | Merged 211K+ Hyperliquid trade records with the Fear & Greed Index; found 4 trader archetypes (K-Means + PCA) and 3.2× higher PnL in Fear markets, validated via ANOVA (F=10.13, p<0.001) | Python · Scikit-learn · Pandas · SciPy | [View Repo →](https://github.com/SIDMINUL/GreedGauge) |
-| **Adaptive Diagnostic Recognition Engine** 🧪 | IRT-based adaptive quiz system that adjusts difficulty from a real-time ability estimate; FastAPI (4 endpoints) + MongoDB + Groq LLM for personalized 3-step study plans | Python · FastAPI · MongoDB · Groq LLM · IRT | [View Repo →](https://github.com/SIDMINUL/Adaptive_Diagnostic_Recognition) |
+| **Movies & Music Recommender** 🎬🎵 | Content-based movie and music recommendation using TF-IDF and nearest-neighbor similarity across the available datasets | Python · Streamlit · Pandas · Scikit-learn · NLP | [View Repo →](https://github.com/SIDMINUL/Movie-Music-Recommender) |
+| **Emotion Voice Assistant (EVA)** 🎙️ | Deployed Flask voice assistant with speech-to-text, lightweight acoustic emotion detection, emotion-aware response policies, optional Ollama responses, and browser TTS | Python · Flask · NumPy · SoundFile · JavaScript | [View Repo →](https://github.com/SIDMINUL/Emotion-Voice-Assistant) |
+| **GreedGauge** 📈 | Deployed Streamlit analytics dashboard combining 211K+ Hyperliquid trades with Bitcoin Fear & Greed data; includes PnL, win rate, trader, coin, activity, and sentiment analysis | Python · Streamlit · Pandas · Scikit-learn · SciPy | [View Repo →](https://github.com/SIDMINUL/GreedGauge) |
+| **Customer Service Quality Dashboard** 📊 | Analyzed 5,000 service interactions and built a Power BI dashboard for KPI, agent, issue, trend, and Pareto-based quality analysis | Python · SQL · Excel · Power BI | [View Repo →](https://github.com/SIDMINUL/Customer-Service-Quality-Dashboard) |
+| **Adaptive Diagnostic Recognition Engine** 🧪 | Deployed adaptive quiz system using IRT-inspired ability updates, MongoDB persistence, and Groq-powered personalized study plans | Python · FastAPI · MongoDB · Groq · IRT | [View Repo →](https://github.com/SIDMINUL/Adaptive_Diagnostic_Recognition) |
+
+---
+
+## 🚀 Deployment Highlights
+
+- ☁️ **Emotion Voice Assistant:** deployed on Render with `/health` and `/process` API endpoints.
+- 📈 **GreedGauge:** deployed as an interactive Streamlit dashboard with filters and analytical KPIs.
+- 🧪 **Adaptive Diagnostic Recognition:** deployed FastAPI service with MongoDB, question seeding, adaptive assessment, and Groq-based study-plan generation.
+- 📊 **Customer Service Quality Dashboard:** packaged as a Power BI portfolio project with Python and SQL analysis artifacts.
 
 ---
 
@@ -129,7 +135,7 @@ Raw Data  ──►  Clean & EDA  ──►  Feature Engineering  ──►  Mod
 
 ### ⚡ Fun Fact
 
-I once fed **211,000 crypto trades** into a clustering model just to prove that traders make more money when everyone else is panicking. The data agreed. 📉→📈
+I once fed **211,000+ crypto trades** into a clustering pipeline to understand how trader behavior changes across market-sentiment regimes. 📉→📈
 
 ---
 
