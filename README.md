@@ -4,7 +4,16 @@
 
 ### Final Year @ IIIT Ranchi | Data & ML Engineer | Building Deployed AI Systems
 
+🌐 **[View My Portfolio →](https://sidminul.github.io/Abdul-Momin-Portfolio/)**
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+%26+ML+Systems;Analytics+%7C+Voice+AI+%7C+Recommenders;Data+Pipelines+%E2%86%92+Models+%E2%86%92+Deployment+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+<p align="center">
+  <a href="https://sidminul.github.io/Abdul-Momin-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/SIDMINUL/"><img src="https://img.shields.io/badge/LeetCode-SIDMINUL-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
 ---
 
@@ -115,11 +124,27 @@ Raw Data → Clean & EDA → Feature Engineering → Model / Analytics
 
 ---
 
+## 🧩 Problem Solving
+
+- 💻 **320+ DSA problems solved**
+- 🧠 Regular practice across algorithms, data structures, and coding patterns
+- 🔗 **[View my LeetCode profile →](https://leetcode.com/u/SIDMINUL/)**
+
+---
+
 ## 🎓 Achievements & Certifications
 
 - 🏅 **Data Analyst Bootcamp** – Alexander Freberg (2026)
 - 🏅 **AlgoUniversity ATF 2024** – Algorithms & Data Structures
 - 🏅 **SQL Certification** – YHills (2024)
+
+---
+
+## 🌐 Portfolio
+
+### **[Visit My Portfolio →](https://sidminul.github.io/Abdul-Momin-Portfolio/)**
+
+Explore my projects, deployments, technical skills, experience, resume, and problem-solving profile in one place.
 
 ---
 
